@@ -1,0 +1,6 @@
+*********Improvements in Framework*********
+
+1. Page Object Design Pattern can be implemented, by creating separate classes for each pages
+2. Selenium PageFactory can be used to initialize all WebElements
+3. Properties file can be included with URL, path... details
+4. Cucumber reports can be customized
